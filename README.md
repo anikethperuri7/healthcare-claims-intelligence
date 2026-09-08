@@ -137,17 +137,19 @@ sql/
 
 Examples include specialty-level percentile ranking, provider cost-per-claim benchmarking, rolling-month utilization changes, repeat-service patterns, and financial exposure calculations.
 
-## Power BI dashboard plan
+## Power BI Dashboard
 
-The final dashboard is designed as a five-page investigation experience:
+The repository includes an interactive Power BI dashboard (`Healthcare_Claims_Intelligence.pbix`) built from the pipeline's curated dashboard exports.
 
-1. **Executive Overview** — total claims, total spend, PMPM, review-candidate spend, high-risk providers
-2. **Provider Risk** — specialty peer comparison, review score, reasons, cost/frequency outliers
-3. **Claims Review** — claim-level queue with drill-through details
-4. **Cost & Utilization** — service category, diagnosis, member, and monthly trends
-5. **Temporal Signals** — sudden changes in provider behavior and rolling comparisons
+The dashboard contains two focused analysis pages:
 
-See `dashboard/POWER_BI_BUILD_GUIDE.md` and `dashboard/DAX_MEASURES.md`.
+1. **Executive Overview** — tracks total claims, allowed and paid spend, unique members, high-priority providers, review-candidate spend, monthly spending trends, specialty-level spending, and top provider review scores. Interactive region and specialty filters support targeted analysis.
+
+2. **Provider Risk & Review Prioritization** — provides a provider-level investigation view with review scores, associated review spend, claim volume, network status, priority bands, and human-readable review reasons. Interactive priority-band and specialty filters help analysts identify providers for further review.
+
+The dashboard complements the Python and SQL workflow by turning the generated analytical outputs into an interactive business intelligence interface for cost monitoring and investigation prioritization.
+
+See `dashboard/POWER_BI_BUILD_GUIDE.md` and `dashboard/DAX_MEASURES.md` for supporting documentation.
 
 ## Repository structure
 
