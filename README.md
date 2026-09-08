@@ -77,6 +77,20 @@ Generated artifacts include:
 - `reports/latest/model_evaluation.json` — precision/recall metrics against synthetic scenario labels
 - `reports/latest/charts/` — high-resolution 200-DPI charts
 - `reports/latest/dashboard_exports/` — curated Power BI tables
+### Generated visualizations
+
+#### Monthly Allowed Spend
+![Monthly Allowed Spend](reports/latest/charts/monthly_allowed_spend.png)
+
+#### Top Provider Review Scores
+![Top Provider Review Scores](reports/latest/charts/top_provider_review_scores.png)
+
+#### Review-Candidate Spend by Specialty
+![Review-Candidate Spend by Specialty](reports/latest/charts/review_candidate_spend_by_specialty.png)
+
+#### Provider Review Score Distribution
+![Provider Review Score Distribution](reports/latest/charts/provider_score_distribution.png)
+
 
 ## Quickstart
 
