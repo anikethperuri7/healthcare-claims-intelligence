@@ -1,0 +1,7 @@
+check,passed,details
+required_columns_present,True,missing=[]
+claim_id_unique,True,duplicates=0
+allowed_amount_nonnegative,True,negative=0
+paid_not_above_allowed,True,violations=0
+member_fk_valid,True,invalid=0
+provider_fk_valid,True,invalid=0

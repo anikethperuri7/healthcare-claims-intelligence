@@ -1,0 +1,29 @@
+provider_id,scenario_type,scenario_start_date,scenario_description
+P0083,HIGH_COST,2024-01-01,Synthetic provider allowed amounts elevated relative to peers.
+P0250,EXCESS_FREQUENCY,2024-01-01,Synthetic provider receives additional high-frequency claims.
+P0263,DUPLICATE_PATTERN,2024-01-01,Synthetic repeated same-member/procedure/date patterns added.
+P0296,SUDDEN_SPIKE,2025-10-01,Synthetic late-period volume/spend increase added.
+P0064,HIGH_INTENSITY_MIX,2024-01-01,Synthetic procedure mix shifted toward high-intensity services.
+P0223,HIGH_COST,2024-01-01,Synthetic provider allowed amounts elevated relative to peers.
+P0162,EXCESS_FREQUENCY,2024-01-01,Synthetic provider receives additional high-frequency claims.
+P0197,DUPLICATE_PATTERN,2024-01-01,Synthetic repeated same-member/procedure/date patterns added.
+P0062,SUDDEN_SPIKE,2025-10-01,Synthetic late-period volume/spend increase added.
+P0033,HIGH_INTENSITY_MIX,2024-01-01,Synthetic procedure mix shifted toward high-intensity services.
+P0256,HIGH_COST,2024-01-01,Synthetic provider allowed amounts elevated relative to peers.
+P0086,EXCESS_FREQUENCY,2024-01-01,Synthetic provider receives additional high-frequency claims.
+P0183,DUPLICATE_PATTERN,2024-01-01,Synthetic repeated same-member/procedure/date patterns added.
+P0322,SUDDEN_SPIKE,2025-10-01,Synthetic late-period volume/spend increase added.
+P0001,HIGH_INTENSITY_MIX,2024-01-01,Synthetic procedure mix shifted toward high-intensity services.
+P0109,HIGH_COST,2024-01-01,Synthetic provider allowed amounts elevated relative to peers.
+P0343,EXCESS_FREQUENCY,2024-01-01,Synthetic provider receives additional high-frequency claims.
+P0193,DUPLICATE_PATTERN,2024-01-01,Synthetic repeated same-member/procedure/date patterns added.
+P0146,SUDDEN_SPIKE,2025-10-01,Synthetic late-period volume/spend increase added.
+P0233,HIGH_INTENSITY_MIX,2024-01-01,Synthetic procedure mix shifted toward high-intensity services.
+P0115,HIGH_COST,2024-01-01,Synthetic provider allowed amounts elevated relative to peers.
+P0021,EXCESS_FREQUENCY,2024-01-01,Synthetic provider receives additional high-frequency claims.
+P0049,DUPLICATE_PATTERN,2024-01-01,Synthetic repeated same-member/procedure/date patterns added.
+P0048,SUDDEN_SPIKE,2025-10-01,Synthetic late-period volume/spend increase added.
+P0312,HIGH_INTENSITY_MIX,2024-01-01,Synthetic procedure mix shifted toward high-intensity services.
+P0213,HIGH_COST,2024-01-01,Synthetic provider allowed amounts elevated relative to peers.
+P0052,EXCESS_FREQUENCY,2024-01-01,Synthetic provider receives additional high-frequency claims.
+P0042,DUPLICATE_PATTERN,2024-01-01,Synthetic repeated same-member/procedure/date patterns added.

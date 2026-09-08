@@ -1,0 +1,101 @@
+provider_id,specialty,region,network_status
+P0001,Neurology,Northeast,In Network
+P0002,Dermatology,Northeast,In Network
+P0003,Family Medicine,South,In Network
+P0004,Orthopedics,West,In Network
+P0005,Oncology,West,In Network
+P0006,Urology,South,In Network
+P0007,Orthopedics,Midwest,Out of Network
+P0008,Family Medicine,South,Out of Network
+P0009,Orthopedics,West,In Network
+P0010,Radiology,South,In Network
+P0011,Oncology,Northeast,In Network
+P0012,Orthopedics,Midwest,In Network
+P0013,Neurology,South,In Network
+P0014,Urology,South,In Network
+P0015,Emergency Medicine,West,In Network
+P0016,Gastroenterology,West,In Network
+P0017,Emergency Medicine,Northeast,In Network
+P0018,Dermatology,Midwest,In Network
+P0019,Oncology,Midwest,In Network
+P0020,Dermatology,Midwest,In Network
+P0021,Emergency Medicine,South,In Network
+P0022,Orthopedics,Northeast,In Network
+P0023,Emergency Medicine,Northeast,In Network
+P0024,Radiology,West,In Network
+P0025,Cardiology,Northeast,In Network
+P0026,Gastroenterology,West,In Network
+P0027,Cardiology,Midwest,In Network
+P0028,Cardiology,Midwest,In Network
+P0029,Orthopedics,Northeast,In Network
+P0030,Cardiology,Northeast,In Network
+P0031,Radiology,Midwest,In Network
+P0032,Neurology,West,In Network
+P0033,Gastroenterology,West,In Network
+P0034,Urology,Northeast,In Network
+P0035,Family Medicine,Northeast,In Network
+P0036,Family Medicine,Northeast,In Network
+P0037,Gastroenterology,South,In Network
+P0038,Oncology,Midwest,In Network
+P0039,Radiology,Midwest,In Network
+P0040,Neurology,West,In Network
+P0041,Emergency Medicine,West,In Network
+P0042,Radiology,South,In Network
+P0043,Neurology,Northeast,In Network
+P0044,Radiology,Midwest,In Network
+P0045,Gastroenterology,Midwest,In Network
+P0046,Dermatology,South,In Network
+P0047,Urology,South,In Network
+P0048,Oncology,Northeast,In Network
+P0049,Family Medicine,West,In Network
+P0050,Radiology,South,In Network
+P0051,Cardiology,West,In Network
+P0052,Urology,Northeast,In Network
+P0053,Neurology,Midwest,In Network
+P0054,Neurology,Northeast,In Network
+P0055,Cardiology,South,Out of Network
+P0056,Dermatology,Northeast,In Network
+P0057,Orthopedics,Midwest,In Network
+P0058,Neurology,West,In Network
+P0059,Dermatology,South,In Network
+P0060,Oncology,South,Out of Network
+P0061,Orthopedics,South,In Network
+P0062,Emergency Medicine,South,In Network
+P0063,Oncology,South,In Network
+P0064,Urology,Midwest,In Network
+P0065,Gastroenterology,Northeast,In Network
+P0066,Emergency Medicine,South,In Network
+P0067,Urology,Northeast,In Network
+P0068,Urology,South,In Network
+P0069,Gastroenterology,South,In Network
+P0070,Gastroenterology,Northeast,In Network
+P0071,Radiology,West,In Network
+P0072,Cardiology,South,In Network
+P0073,Family Medicine,South,In Network
+P0074,Neurology,West,In Network
+P0075,Oncology,Midwest,In Network
+P0076,Oncology,Midwest,In Network
+P0077,Family Medicine,Midwest,Out of Network
+P0078,Radiology,South,In Network
+P0079,Oncology,Midwest,In Network
+P0080,Neurology,West,In Network
+P0081,Urology,Midwest,In Network
+P0082,Cardiology,South,In Network
+P0083,Orthopedics,South,In Network
+P0084,Urology,Midwest,In Network
+P0085,Oncology,South,Out of Network
+P0086,Neurology,South,Out of Network
+P0087,Family Medicine,South,In Network
+P0088,Emergency Medicine,South,In Network
+P0089,Neurology,South,In Network
+P0090,Radiology,South,Out of Network
+P0091,Gastroenterology,South,In Network
+P0092,Dermatology,Midwest,In Network
+P0093,Gastroenterology,South,In Network
+P0094,Cardiology,Northeast,In Network
+P0095,Urology,South,In Network
+P0096,Neurology,Northeast,In Network
+P0097,Emergency Medicine,West,In Network
+P0098,Oncology,Northeast,In Network
+P0099,Neurology,Midwest,In Network
+P0100,Neurology,Midwest,In Network
