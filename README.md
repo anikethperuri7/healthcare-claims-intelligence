@@ -140,6 +140,15 @@ Examples include specialty-level percentile ranking, provider cost-per-claim ben
 ## Power BI Dashboard
 
 The repository includes an interactive Power BI dashboard (`Healthcare_Claims_Intelligence.pbix`) built from the pipeline's curated dashboard exports.
+### Dashboard Preview
+
+#### Executive Overview
+
+![Healthcare Claims Intelligence Executive Overview](dashboard/images/executive_overview.png)
+
+#### Provider Risk & Review Prioritization
+
+![Provider Risk and Review Prioritization Dashboard](dashboard/images/provider_risk.png)
 
 The dashboard contains two focused analysis pages:
 
@@ -155,6 +164,7 @@ See `dashboard/POWER_BI_BUILD_GUIDE.md` and `dashboard/DAX_MEASURES.md` for supp
 
 ```text
 healthcare-claims-intelligence/
+├── Healthcare_Claims_Intelligence.pbix
 ├── .github/workflows/ci.yml
 ├── dashboard/
 ├── data/
